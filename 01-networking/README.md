@@ -40,8 +40,8 @@ This repository documents practical, concise explanations of key networking topi
 - Load Balancers (L4 & L7) for traffic distribution and scalability
 
 
-### 06. Networking Commands
-- Traceroute,ifconfig etc..
+### 07. Networking Commands
+- Traceroute, ifconfig etc..
 ---
 
 ## 🚀 Why This Matters for DevOps
