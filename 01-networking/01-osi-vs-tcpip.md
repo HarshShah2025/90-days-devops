@@ -30,4 +30,3 @@ A simplified 4-layer model used practically in modern networking:
 - **Router:** Connects different networks and directs data packets between them.
 - **Switch:** Connects multiple devices in a local network and directs traffic using MAC addresses.
 - **Firewall:** Monitors and controls network traffic based on security rules.
-### ans is here
